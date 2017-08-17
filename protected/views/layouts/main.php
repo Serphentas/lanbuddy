@@ -15,7 +15,6 @@
 </head>
 <body>
 <div class='wrap'>
-   <div>bullshit</div>
     <div class='nav'>
         <a href='#' class='cog'><img src='img/gear39.png'></a>
         <div class='nav-content'>
