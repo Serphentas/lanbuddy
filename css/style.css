@@ -12,6 +12,12 @@ html {
 thead{
 	color:#000000;
 }
+tr.odd{
+	color:#000000;
+}
+tr.even{
+	color:#000000;
+}
 html body {
   height: 100%;
   background-color: #1d1f21;
