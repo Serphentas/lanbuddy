@@ -78,6 +78,9 @@ html body .nav .form {
   width: 300px;
   display: inline-block;
 }
+html body .form input {
+	color: #0b0b0b;	
+}
 html body .nav .form input {
   color: #0b0b0b;
   width: 100%;
